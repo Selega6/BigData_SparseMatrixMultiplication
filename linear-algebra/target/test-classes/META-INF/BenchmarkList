@@ -1,0 +1,2 @@
+JMH S 83 software.ulpgc.bigdata.algebra.matrices.longint.test.SparsedMultiplicationBenchmark S 110 software.ulpgc.bigdata.algebra.matrices.longint.test.jmh_generated.SparsedMultiplicationBenchmark_test_jmhTest S 4 test S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
+JMH S 83 software.ulpgc.bigdata.algebra.matrices.longint.test.SparsedMultiplicationBenchmark S 110 software.ulpgc.bigdata.algebra.matrices.longint.test.jmh_generated.SparsedMultiplicationBenchmark_test_jmhTest S 4 test S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 7 SECONDS E E 
